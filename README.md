@@ -1,6 +1,6 @@
 # Demand.ninja
 
-The Demand.ninja model delivers an hourly time-series of energy demand for a given location, for your chosen temperaure thresholds and BAIT (building-adjusted internal temperature) parameters which describe the characteristics of a building and its occupants.
+The Demand.ninja model delivers an hourly time-series of energy demand for a given location, for your chosen temperature thresholds and BAIT (building-adjusted internal temperature) parameters which describe the characteristics of a building and its occupants.
 
 This code also runs online on the [Renewables.ninja service](https://www.renewables.ninja/).
 
